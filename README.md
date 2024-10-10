@@ -19,3 +19,12 @@ Keywords: neurodegenerative diseases, electroencephalography, supervised deep le
 
 ![image](https://github.com/user-attachments/assets/2f979c2b-5de4-4d1d-99fa-c9ce1458d293)
 
+# Proposed CNN architecture
+
+![image](https://github.com/user-attachments/assets/0a36a27b-5fa7-428d-b318-9c356cf00173)
+
+Note: Image data was time-frequency images; Image features were computed from the CNN model;
+Age was numeric data; Age features were computed from the regression model; Predictions were
+two-way predictions with “sigmoid” activation and “binary_crossentropy” loss functions.
+
+Abbreviations: CNN, convolutional neural network; EEG, electroencephalogram; TF, timefrequency.
